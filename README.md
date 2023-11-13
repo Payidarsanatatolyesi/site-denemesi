@@ -1,1 +1,1 @@
-payidar sanat yazan dosyayı açmanız yeterli
+payidar sanat atölyesi yazan dosyayı açmanız yeterli
